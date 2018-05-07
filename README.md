@@ -4,7 +4,7 @@ Going to a hackathon? You should pack. This list is here to help you to come pre
 Some of the items are marked
 - **❗important items** are the bare essentials. You're going to have a hard time participating without these.
 - **time-saving items (+⏲)** are preparations you can make before the event and items that will save you time once you're there. Hackathons tend to be intense and time-sensitive events, and any such preparation might end up being the difference between a finished and unfinished project.
-- **Social items (+❤️)**  are items that could help others or could help you to connect with others :)
+- **Social items (+❤️)**  are items that could help others as well :)
 
 ## Computer & Work Environment
 
