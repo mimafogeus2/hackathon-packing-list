@@ -35,7 +35,7 @@ Be prepared with downloaded/local music/noise in case you'll have connection pro
 - **Comfortable Cloth** - You'll be working intensively for long times. You want to be comfy.
 - **Sleepers** - MUCH more comfy than shoes, and suitable for most hackathon environments.
 ## Hygiene
-- **❗❤️Deodorant** - Be considerate
+- **❗❤️Deodorant** - Be considerate.
 - **❗❤️Toilet Paper** - In too many cases, it tends to end before the event does. Be prepared.
 - **Toothbrush + Toothpaste** - It's easy to forget to brush your teeth after a white night of coding. You shouldn't.
 ## Sleeping Arrangements
@@ -46,5 +46,5 @@ If you're planning to sleep through some of the hackathon, don't forget to prepa
 ## Food, snacks, drinks
 Check what are the food arrangements before you arrive. Some hackathons will provide meals and snacks, some will provide one meal and coffee, some will provide nothing.
 In case food is not provided, going outside to nearby restaurants is a nice way for a break, but it costs time and money. Do your considerations and bring (or don't bring) food accordingly. Also, verify that you've got a way to heat your food if you're planning on doing that. Also:
-- **Peronal Bottle of Water** - Even if the hackathon provides everything, it's much more convenient to have an immediate sip at a hand's reach.
+- **Peronal Water Bottle** - Even if the hackathon provides everything, it's much more convenient to have an immediate sip at a hand's reach.
 - **Coffee/Tea** - If these are important to you, have a little for yourself in case the place runs out of them.
