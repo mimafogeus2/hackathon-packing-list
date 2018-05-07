@@ -6,7 +6,7 @@ Some of the items are marked
 - **time-saving items (+⏲)** are preparations you can make before the event and items that will save you time once you're there. Hackathons tend to be intense and time-sensitive events, and any such preparation might end up being the difference between a finished and unfinished project.
 - **Social items (+❤️)**  are items that could help others as well :)
 
-## Computer & Work Environment
+## Work Environment
 
 - **❗Your laptop**
 - **❗Chargers**
