@@ -24,8 +24,12 @@ If you don't use or don't like automatically generated playlists that various mu
 A non-music alternative to mask noises are noise generators. You'll find many, both abstract (e.g. white noise) and atmospheric (e.g. nature or coffee shop ambience) generators at many dedicated websites (e.g. [MyNoise](https://mynoise.net/)).
 - **Notebook and Pens** - These might end up being the closest thing to a whiteboard you'll have access too.
 
+## Health
+- ❗❗❗**Medicine**, **Allergy Medicine**
+- ❗❗❗**Special Food Requirements**
+
 ## Comfort
-- **Sweatshirt** - No matter how hot it is, the AC might be freezing. It's always good to have an additional thing to wear at hackathons.
+- **Warm Cloth** - No matter how hot it is, the AC might be freezing. It's always good to have an additional thing to wear at hackathons.
 - **Comfortable Cloth** - You'll be working intensively for long times. You want to be comfy.
 - **Sleepers** - MUCH more comfy than shoes, and suitable for most hackathon environments.
 ## Hygiene
@@ -34,8 +38,9 @@ A non-music alternative to mask noises are noise generators. You'll find many, b
 - **Toothbrush + Toothpaste** - It's easy to forget to brush your teeth after a white night of coding. You shouldn't.
 ## Sleeping Arrangements
 If you're planning to sleep through some of the hackathon, don't forget to prepare sleeping arrangement. If you want to crash on-site, don't forget to bring:
-- **Sleeping Bag**
-- Optionally, **A Pillow**, **A Blanket** and a **fresh set of cloths to sleep in**
+- **Sleeping Bag** and/or **A Pillow**.
+- Optionally, **A Blanket**.
+- **A Change of Cloth** - Not necessary, but a nice refreshment after a night.
 ## Food, snacks, drinks
 Check what are the food arrangements before you arrive. Some hackathons will provide meals and snacks, some will provide one meal and coffee, some will provide nothing.
 In case food is not provided, going outside to nearby restaurants is a nice way for a break, but it costs time and money. Do your considerations and bring (or don't bring) food accordingly. Also, verify that you've got a way to heat your food if you're planning on doing that. Also:
