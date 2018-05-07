@@ -13,6 +13,7 @@ Some of the items are marked
   - Laptop
   - Mobile Phone
 - **❤️Power Strip** - It will both make sure that you have an outlet and could provide one for others.
+- **❤️Internet Access** - You might find yourself connected to an overly crowded network, or find that the Internet infrastructure in the event crashes. Consider having a generous mobile Internet package prepared and use a hotspot.
 - **Extension Cord** - Will give you better flexibility with your sitting arrangements.
 - **All the software you know you'll need, preinstalled** - Preinstalling software you know you'll be using will save you lots of valuable time. This includes:
   - **❗⏲️Editor**- The main piece of software you'll be using - IDE/text editor/graphics editor/sound editor...
@@ -22,6 +23,7 @@ Some of the items are marked
 - **Headphones (consider active noise cancellation) + Music/Noise** or **Earplugs** - In most hackathons, you'll find yourself in an open space. For when you'll need to concentrate, don't forget to get your favorite method of noise masking.
 If you don't use or don't like automatically generated playlists that various music services (and Youtube) offer, consider preparing your own work music playlist.
 A non-music alternative to mask noises are noise generators. You'll find many, both abstract (e.g. white noise) and atmospheric (e.g. nature or coffee shop ambience) generators at many dedicated websites (e.g. [MyNoise](https://mynoise.net/)).
+Be prepared with downloaded/local music/noise in case you'll have connection problems.
 - **Notebook and Pens** - These might end up being the closest thing to a whiteboard you'll have access too.
 
 ## Health
