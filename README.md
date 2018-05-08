@@ -40,7 +40,7 @@ Be prepared with downloaded/local music/noise in case you'll have connection pro
 - **Toothbrush + Toothpaste** - It's easy to forget to brush your teeth after a white night of coding. You shouldn't.
 ## Sleeping Arrangements
 If you're planning to sleep through some of the hackathon, don't forget to prepare sleeping arrangement. If you want to crash on-site, don't forget to bring:
-- **Sleeping Bag** and/or **A Pillow**.
+- **Sleeping Bag** and/or **Pillow**.
 - Optionally, **A Blanket**.
 - **A Change of Cloth** - Not necessary, but a nice refreshment after a night.
 ## Food, snacks, drinks
