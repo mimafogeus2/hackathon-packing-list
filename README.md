@@ -33,7 +33,7 @@ Be prepared with downloaded/local music/noise in case you'll have connection pro
 ## Comfort
 - **Warm Cloth** - No matter how hot it is, the AC might be freezing. It's always good to have an additional thing to wear at hackathons.
 - **Comfortable Cloth** - You'll be working intensively for long times. You want to be comfy.
-- **Sleepers** - MUCH more comfy than shoes, and suitable for most hackathon environments.
+- **Slippers** - MUCH more comfy than shoes, and suitable for most hackathon environments.
 ## Hygiene
 - **❗❤️Deodorant** - Be considerate.
 - **❗❤️Toilet Paper** - In too many cases, it tends to end before the event does. Be prepared.
